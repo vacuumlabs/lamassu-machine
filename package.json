@@ -18,8 +18,8 @@
     "got": "^7.1.0",
     "immutable": "^3.8.1",
     "left-pad": "^1.1.0",
-    "lodash": "^4.17.4",
-    "machina": "^2.0.0",
+    "lodash": "^4.17.10",
+    "machina": "^2.0.2",
     "minimist": "^1.2.0",
     "nfc-pcsc": "^0.6.1",
     "node-forge": "^0.7.1",
@@ -30,7 +30,7 @@
     "pcsclite": "^0.6.0",
     "pify": "^3.0.0",
     "rxjs": "^5.4.2",
-    "serialport": "^6.0.0-beta1",
+    "serialport": "^6.2.2",
     "speaker": "^0.4.0",
     "tar": "~0.1.8",
     "tinycolor2": "^1.4.1",
@@ -46,16 +46,16 @@
     "v4l2camera": "1.0.4"
   },
   "devDependencies": {
-    "ava": "^0.21.0",
-    "babel-cli": "^6.24.1",
+    "ava": "^0.25.0",
+    "babel-cli": "^6.26.0",
     "babel-polyfill": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
+    "babel-preset-env": "^1.7.0",
     "benchmark": "^2.1.4",
     "microtime": "^2.1.7",
     "p-whilst": "^1.0.0",
     "parse5": "^4.0.0",
     "standard": "^11.0.1",
-    "x-ray": "^2.3.2"
+    "x-ray": "^2.3.3"
   },
   "repository": {
     "type": "git",
