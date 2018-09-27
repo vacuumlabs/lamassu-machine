@@ -41,6 +41,7 @@
     "xstate": "^3.0.4"
   },
   "optionalDependencies": {
+    "spi-device": "^2.0.3",
     "jpeg-turbo": "lamassu/node-jpeg-turbo",
     "manatee": "2.0.2",
     "v4l2camera": "1.0.4"
